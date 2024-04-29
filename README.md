@@ -1,1 +1,1 @@
-This repo constains basic python projects
+This repo contains beginner python projects
